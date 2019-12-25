@@ -16,4 +16,6 @@ Supervised Classification problem. Datasets are located on [Kaggle](https://www.
 ```
 
 ## TO-DO list
+- [ ] Data vizualisation
 - [ ] Have a model better than random
+- [ ] Improve model
